@@ -32,8 +32,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-josipcodes-hellodjango-5qgeb60erjg.ws-us105.gitpod.io',
-            '8000-josipcodes-hellodjango-5qgeb60erjg.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['josipcodes-todo-7d99b7fc0acd.herokuapp.com']
 
 
 # Application definition
